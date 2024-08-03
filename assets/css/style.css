@@ -17,7 +17,6 @@
 
  .main-heading {
      font-family: 'Plus Jakarta Sans', sans-serif;
-     font-size: 56px;
      font-weight: 600;
      line-height: 70.56px;
      text-align: center;
@@ -36,7 +35,6 @@
 
  .sub-heading {
      font-family: 'Plus Jakarta Sans', sans-serif;
-     font-size: 18px;
      font-weight: 400;
      line-height: 28.8px;
      text-align: center;
@@ -45,7 +43,6 @@
 
  .getbtn {
      font-family: 'Plus Jakarta Sans', sans-serif;
-     font-size: 18px;
      font-weight: 700;
      line-height: 22.68px;
      text-align: left;
