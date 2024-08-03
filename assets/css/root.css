@@ -1,0 +1,19 @@
+:root {
+    /*-----------------------------font-size------------------------*/
+
+
+    --fs-lg: 18px;
+    --fs-2xl: 26px;
+}
+
+/* font size */
+.main-heading {
+    font-size: var(--fs-lg);
+    font-size: var(--fs-2xl);
+}
+
+@media (min-width:576px) {
+    :root {
+        --fs-2xl: 56px;
+    }
+}
